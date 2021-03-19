@@ -122,7 +122,7 @@ $ git push
 
 
 ## License
-[MIT](https://github.com/joeldore/MongoMovies/blob/main/LICENSE) License
+[MIT](https://github.com/joeldore/MongoMovies/blob/master/LICENSE) License
 
 ## Contact
 
