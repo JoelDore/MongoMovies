@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/arensalmela/MongoMoviese">
+  <a href="https://github.com/joeldore/MongoMovies">
     <img src="./client/public/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,21 +11,21 @@
   <p align="center">
 Looking for an easy and fun way to stay up to date on this week's trending movies? Look no further - MongoMovies is here to help!
     <br />
-    <a href="https://github.com/arensalmela/MongoMovies"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/joeldore/MongoMovies"><strong>Explore the docs »</strong></a>
     <br />
 
 <h2 align="center"> 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/arensalmela/MongoMovies)
+![GitHub last commit](https://img.shields.io/github/last-commit/joeldore/MongoMovies)
 
 </h2>
     <br />
     <p align="center"> 
     <a href="#">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/joeldore/MongoMovies/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/joeldore/MongoMovies/issues">Request Feature</a>
     </p>
   </p>
 </p>
@@ -51,7 +51,6 @@ Looking for an easy and fun way to stay up to date on this week's trending movie
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 </br>
@@ -89,11 +88,11 @@ Get a copy up on your local directory by running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/arensalmela/MongoMovies
+   git clone https://github.com/joeldore/MongoMovies
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   npm i
    ```
 
 
@@ -108,7 +107,7 @@ Get a copy up on your local directory by running follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/arensalmela/MongoMovies) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/joeldore/MongoMovies) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -123,21 +122,15 @@ $ git push
 
 
 ## License
-:soon: *License coming soon!*
-## Contact Us
+[MIT](https://github.com/joeldore/MongoMovies/blob/main/LICENSE) License
+
+## Contact
 
 * Junko Yamazaki - [GitHub](https://github.com/junkoyama) 
 * Joel Dore - [GitHub](https://github.com/JoelDore)
 * Aren Salmela - [GitHub](https://github.com/arensalmela)
 * Shannon Quinn - [GitHub](https://github.com/shannonquinn91)
 
-Our Project Link: [https://github.com/arensalmela/MongoMovies](https://github.com/arensalmela/MongoMovies)
-
-
-## Acknowledgements
-
-* []() :soon:
-* []() :soon:
-* []() :soon:
+Deployed Project: https://MongoMovies.herokuapp.com
 
 [Return to Top](# )
