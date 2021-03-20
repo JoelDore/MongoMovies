@@ -21,7 +21,7 @@ Looking for an easy and fun way to stay up to date on this week's trending movie
 </h2>
     <br />
     <p align="center"> 
-    <a href="#">View Demo</a>
+    <a href="https://mongomovies.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/joeldore/MongoMovies/issues">Report Bug</a>
     ·
@@ -61,12 +61,12 @@ Looking for an easy and fun way to stay up to date on this week's trending movie
 ## About The Project
 
 If you are looking for an easy and fun way to stay up to date on this week's currently trending movies - you have landed on the right application! MongoMovies is perfect for you. This app allows users on both desktop and mobile to log in through a Gmail account and instantly have access to a list of movies to start creating a profile collection. Users can keep track of movies they add to their collection, update if they have watched it and add their personal movie rating. Movies listed are provided by the [TheMovieDB](https://www.themoviedb.org/?language=en-US) API.
-
 ### Built With
 
-* [React]("https://github.com/facebook/react")
-* [Mongoose]("https://mongoosejs.com/docs/guide.html")
-* [Material UI]("https://github.com/mui-org/material-ui")
+* [React](https://github.com/facebook/react)
+* [Mongoose](https://mongoosejs.com/docs/guide.html)
+* [Material UI](https://github.com/mui-org/material-ui)
+* [TheMovieDB API](https://www.themoviedb.org/?language=en-US)
 
 
 </br>
@@ -94,15 +94,23 @@ Get a copy up on your local directory by running follow these simple steps.
    ```sh
    npm i
    ```
+3. Run start script
+   ```sh
+   npm start
+   ```
 
 
 </br>
 
 ## Usage
 
-* :soon: Screenshots Coming Soon!
-* :soon: Deployed link video Coming Soon!
+[GitHub Project Link](https://github.com/arensalmela/MongoMovies)
+</n>
 
+[Heroku Deployed Link](https://mongomovies.herokuapp.com/)
+
+![screenshot](client/src/assets/images/demoScreen.png)
+ 
 </br>
 
 ## Roadmap
@@ -117,6 +125,7 @@ Interested in Contributing?
 $ git checkout -b XXyourRemoteBranchXX
 $ git commit -m "Added some super cool features"
 $ git push
+$ git checkout master
 ```
 * Open a Pull Request
 
