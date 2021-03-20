@@ -31,7 +31,7 @@ Looking for an easy and fun way to stay up to date on this week's trending movie
 </p>
 
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary style="font-size: 24px">Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About MongoMovies</a>
